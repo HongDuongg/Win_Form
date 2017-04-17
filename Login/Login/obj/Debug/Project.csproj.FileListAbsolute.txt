@@ -1,0 +1,12 @@
+C:\Users\SaiBack\Desktop\Project\Login\Login\bin\Debug\Login.exe.config
+C:\Users\SaiBack\Desktop\Project\Login\Login\bin\Debug\Login.exe
+C:\Users\SaiBack\Desktop\Project\Login\Login\bin\Debug\Login.pdb
+C:\Users\SaiBack\Desktop\Project\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\SaiBack\Desktop\Project\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\SaiBack\Desktop\Project\Login\Login\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\SaiBack\Desktop\Project\Login\Login\obj\Debug\Login.exe
+C:\Users\SaiBack\Desktop\Project\Login\Login\obj\Debug\Login.pdb
+C:\Users\SaiBack\Desktop\Project\Login\Login\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\SaiBack\Desktop\Project\Login\Login\obj\Debug\Login.TaoTaiKhoan.resources
+C:\Users\SaiBack\Desktop\Project\Login\Login\obj\Debug\Login.CapNhatThongTin.resources
+C:\Users\SaiBack\Desktop\Project\Login\Login\obj\Debug\Login.Main.resources
